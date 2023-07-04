@@ -3,5 +3,5 @@ usibng namespace std;
 int main()
 {
 cout<<"hello world1";
-int a=22;
+int a=15;
 }
